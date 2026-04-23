@@ -6,7 +6,7 @@
 
 #
 
-Me chamo Gabriel Venerando, tenho 25 anos. Atualmente curso Ciência e Tecnológia na UNIFESP em São José dos Campos. Sou apaixonado por tecnologia, curioso sobre Hardware".
+Me chamo Gabriel Venerando, tenho 25 anos. Atualmente curso Ciência e Tecnológia na UNIFESP em São José dos Campos. Sou apaixonado por tecnologia.
  
 #
 
@@ -14,7 +14,7 @@ Me chamo Gabriel Venerando, tenho 25 anos. Atualmente curso Ciência e Tecnológ
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:paulorobertodequeirozjr@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:venerando.santos@unifesp.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]((https://www.linkedin.com/in/gabriel-venerando/))
 
 
@@ -22,19 +22,19 @@ Me chamo Gabriel Venerando, tenho 25 anos. Atualmente curso Ciência e Tecnológ
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="C"
+    title="C" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
 />
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
+    alt="SalesForce" 
+    title="SalesForce"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
 />
 <img 
     align="left" 
@@ -74,9 +74,19 @@ Me chamo Gabriel Venerando, tenho 25 anos. Atualmente curso Ciência e Tecnológ
 
 <img
     align="left"
-    alt="Vercel"
-    title="Vercel"
+    alt="MySql"
+    title="MySql"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
 />
+
+<img
+    align="left"
+    alt="Trello"
+    title="Trello"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
+/>
+
